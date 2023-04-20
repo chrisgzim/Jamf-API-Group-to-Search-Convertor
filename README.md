@@ -15,3 +15,7 @@ Currently only able to be delete all or nothing. (No logic built to selectively 
 LOGS!! There is now a log for the multiple migration path. Feel free to change the path, for now the script defaults to /tmp/conversion.log
 
 This script was a lot of fun to build. Learned some really cool substitution strategies. No doubt there are more effiecent methods to this madness. 
+
+##FYI
+
+If you're looking for a solution that isn't using AppleScript to guide you through your journey, I would recommend checking out Mike Levenick's [Stupid Groups](https://github.com/mike-levenick/stupid-groups)
