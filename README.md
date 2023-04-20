@@ -16,6 +16,6 @@ LOGS!! There is now a log for the multiple migration path. Feel free to change t
 
 This script was a lot of fun to build. Learned some really cool substitution strategies. No doubt there are more effiecent methods to this madness. 
 
-##FYI
+## FYI
 
 If you're looking for a solution that isn't using AppleScript to guide you through your journey, I would recommend checking out Mike Levenick's [Stupid Groups](https://github.com/mike-levenick/stupid-groups)
